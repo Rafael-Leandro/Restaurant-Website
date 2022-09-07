@@ -1,10 +1,10 @@
-# Restaurant Website
- Site exemplo para restaurante francês
+# 🍽️ Responsive Coffee Website
 
-Caso este arquivo seja baixado e salvo em outra pasta, as linhas com links precisam ser alteradas para a completa visualização do projeto.
+### 🍽️ Responsive Coffee Website
 
-Linhas com links no arquivo em HTML:
-Linhas 12, 22, 84, 109, 110, 111, 112, 163, 164 e 217
+- Responsive Restaurant Website Using HTML CSS & JavaScript
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-Linhas com links no arquivo de CSS:
-Linhas 158, 348 e 372
+![preview img](preview.png)
