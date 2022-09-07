@@ -1,6 +1,6 @@
-# 🍽️ Responsive Coffee Website
+# 🍽️ Responsive Restaurant Website
 
-### 🍽️ Responsive Coffee Website
+### 🍽️ Responsive Restaurant Website
 
 - Responsive Restaurant Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
